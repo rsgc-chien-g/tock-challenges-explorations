@@ -2,4 +2,5 @@
 
 import Cocoa
 
-var str = "Hello, playground"
+var vowels = {"a", "e", "i", "o", "u"}
+
